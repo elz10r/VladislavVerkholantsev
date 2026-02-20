@@ -1,8 +1,9 @@
 Hi, I'm Vladislav 👋  
 DevOps engineer in progress  
 Based in Finland 🇫🇮  
-Focused on building, operating, and troubleshooting real-world systems
-Hands-on learner passionate about infrastructure automation
+
+Focused on building, operating, and troubleshooting real-world systems.  
+Hands-on learner passionate about infrastructure automation.
 
 ---
 
@@ -13,7 +14,7 @@ Hands-on learner passionate about infrastructure automation
 - Kubernetes & Helm (learning)  
 - CI/CD (GitHub Actions, basics)  
 - Monitoring (Prometheus, Grafana)  
-- AWS (currently learning)
+- AWS (currently learning)  
 
 ---
 
@@ -32,7 +33,7 @@ Hands-on learner passionate about infrastructure automation
 - Studying DevOps through hands-on projects  
 - Following structured Udemy courses (containers, Kubernetes, CI/CD, cloud)  
 - Practicing production troubleshooting mindset  
-- Gradually moving from local environments toward cloud (AWS)
+- Gradually moving from local environments toward cloud (AWS)  
 
 ---
 
@@ -55,5 +56,5 @@ IT Trainee • Junior DevOps • Technical Support roles in Finland
 
 📫 Contact
 
-GitHub: https://github.com/elz10r  
-LinkedIn: (optional)
+- GitHub: https://github.com/elz10r  
+- LinkedIn: (optional)
