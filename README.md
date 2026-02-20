@@ -2,18 +2,18 @@ Hi, I'm Vladislav 👋
 DevOps engineer in progress  
 Based in Finland 🇫🇮  
 Focused on building, operating, and troubleshooting real-world systems
-⚡ Hands-on learner passionate about infrastructure automation
+Hands-on learner passionate about infrastructure automation
 
 ---
 
 🧰 Tech Stack
 
-Linux  
-Docker & Docker Compose  
-Kubernetes & Helm (learning)  
-CI/CD (GitHub Actions, basics)  
-Monitoring (Prometheus, Grafana)  
-AWS (currently learning)
+- Linux  
+- Docker & Docker Compose  
+- Kubernetes & Helm (learning)  
+- CI/CD (GitHub Actions, basics)  
+- Monitoring (Prometheus, Grafana)  
+- AWS (currently learning)
 
 ---
 
